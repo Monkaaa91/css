@@ -1,6 +1,9 @@
 html{
     font-size: 16px
 }
+html{
+    font-family: 'Titillium Web', sans-serif;
+}
 h1{
     font-size: 36px
 }
